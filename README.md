@@ -2,9 +2,9 @@
 
 ## Naming Convention
 
-To be recognized by the Terraform Registry, your GitHub repository must follow this naming convention:
+### To be recognized by the Terraform Registry, your GitHub repository must follow this naming convention:
 
-terraform-<PROVIDER>-<NAME>
+- `terraform-<PROVIDER>-<NAME>`
 
 ### Examples:
 
